@@ -10,7 +10,7 @@ function Parcel({ parcel, signParcel, index}) {
         className="parcel"
       >
         <h4>{parcel.Description[0].Name}</h4>
-        <h5>{parcel.Value} EUR, {parcel.Weight} KG</h5>
+        <h5>{parcel.Value} EUR, {parcel.Weight} KG </h5>
         <button id="parcelButton" onClick={() => signParcel(index)}>Sign</button>        
         
       </div>
