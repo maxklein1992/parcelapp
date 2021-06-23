@@ -1,4 +1,4 @@
-# Technical assessment
+# Technical assessment Parcel App
 
 ## Short description
 You work at a parcel delivery company and you are asked to design a system to automate the internal handling of parcels coming in. 
